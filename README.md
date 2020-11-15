@@ -33,3 +33,7 @@
 ## print screen
 
 [print screen](planner.png)
+
+[link to the work planner](https://mohamedahmed-1980.github.io/WORK-PLANNER-/.)
+
+[my repo for the application](https://github.com/mohamedahmed-1980/WORK-PLANNER-.git)
